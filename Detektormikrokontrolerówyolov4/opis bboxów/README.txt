@@ -1,0 +1,1 @@
+opisy bboxów zostały stworzone dla zdjęć przeskalowanych do 416x416
